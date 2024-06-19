@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctor.Reservation.Domain", "Doctor.Reservation.Domain\Doctor.Reservation.Domain.csproj", "{638632EA-B860-4D58-9B7E-585A1854562D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doctor.Reservation.Unit.Test", "Doctor.Reservation.Unit.Test\Doctor.Reservation.Unit.Test.csproj", "{436B02AE-7F31-42F5-8301-0D62C7BEC6D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638632EA-B860-4D58-9B7E-585A1854562D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638632EA-B860-4D58-9B7E-585A1854562D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638632EA-B860-4D58-9B7E-585A1854562D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638632EA-B860-4D58-9B7E-585A1854562D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436B02AE-7F31-42F5-8301-0D62C7BEC6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436B02AE-7F31-42F5-8301-0D62C7BEC6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436B02AE-7F31-42F5-8301-0D62C7BEC6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436B02AE-7F31-42F5-8301-0D62C7BEC6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B181A4-B29C-4246-AFEC-77CDCDCE4C52}
+	EndGlobalSection
+EndGlobal
