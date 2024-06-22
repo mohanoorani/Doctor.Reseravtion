@@ -5,7 +5,6 @@ namespace Doctor.Reservation.Unit.Test;
 
 public class AllowTimeTests
 {
-
     [Fact]
     public void Create_ShouldReturnAllowTime_WhenValidParameters()
     {

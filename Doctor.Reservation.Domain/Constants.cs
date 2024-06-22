@@ -2,7 +2,8 @@
 
 public static class Constants
 {
-    public const string NoReservationAvailableMessage = "No Time Available";
-    public const string DoctorUnavailableMessage = "Doctor Not Available At This Time";
-    public const string ReservationTimeLimitMessage = "Can not reserve 2 hours before reserve time";
+    public const string TotalCountCanNotBeZeroOrNegativeMessage = "Total count can not be zero or negative.";
+    public const string NoReservationAvailableMessage = "No Time Available.";
+    public const string DoctorUnavailableMessage = "Doctor Not Available At This Time.";
+    public const string ReservationTimeLimitMessage = "Can not reserve 2 hours before reserve time.";
 }

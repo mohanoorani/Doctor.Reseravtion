@@ -7,6 +7,7 @@ public class AllowTime
         FromTime = fromTime;
         ToTime = toTime;
     }
+
     public TimeOnly FromTime { get; set; }
     public TimeOnly ToTime { get; set; }
 }
